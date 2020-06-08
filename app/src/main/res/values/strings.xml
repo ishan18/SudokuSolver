@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Sudoku Solver</string>
+    <string name="Start_solver">Get a solution</string>
+    <string name="solve">Solve it!</string>
+    <string name="no_solution">No Solution!!!</string>
+    <string name="give_up">Tired?</string>
+    <string name="info">\n
+        To solve a Sudoku problem,\n
+        1. Click on "Solve Sudoku" button.\n
+        2. Select the difficulty and solve the puzzle.\n
+        3. You can only make 3 wrong moves.\n
+        4. You can use hint only 3 times.\n
+        How to get a solution?\n
+        1. Click on "Get a solution" button.\n
+        2. A Sudoku grid will appear.\n
+        3. Fill it with your Sudoku problem.\n
+        4. Hit the "Solve it!" button.\n
+        5. If your problem was valid, you will get a valid solution.\n
+        6. In case of an error, you can also use the eraser.\n
+        7. If you just want some part of the solution(not all), then hit the hint button.\n
+        8. You can use hint only 3 times.
+    </string>
+    <string name="hint">Get hint %1$d/3</string>
+    <string name="solve_sudoku">Solve sudoku</string>
+    <string name="wrong">Wrong %1$d/3</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="history">History</string>
+    <string name="status">Status: %1$s</string>
+    <string name="hintCount">Hints used: %1$d/3</string>
+    <string name="wrongCount">Wrong: %1$d/3</string>
+    <string name="difficulty_level">Difficulty: %1$s</string>
+    <string name="failed">You Failed!!!</string>
+</resources>

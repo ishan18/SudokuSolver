@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SudokuGrid">
+        <attr name="filledCellColor" format="reference|color"/>
+        <attr name="wrongCellColor" format="reference|color"/>
+        <attr name="rightCellColor" format="reference|color"/>
+        <attr name="currentCellColor" format="reference|color"/>
+        <attr name="permanentCellColor" format="reference|color"/>
+        <attr name="android:textSize" format="reference|dimension"/>
+    </declare-styleable>
+</resources>

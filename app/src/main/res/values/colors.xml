@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="sudokuCellFilled">#ECEFF1</color>
+    <color name="sudokuCellwrong">#F44336</color>
+    <color name="sudokuCellRight">#81C784</color>
+    <color name="sudokuCellSelected">#90CAF9</color>
+    <color name="permanentCell">#4DB6AC</color>
+</resources>
