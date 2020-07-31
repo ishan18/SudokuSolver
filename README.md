@@ -12,5 +12,4 @@
 
 ## ScreenShots
 
-### Home Screen
-<img src="https://github.com/ishan18/SudokuSolver/blob/master/screenshots/home.jpeg" alt="Home Screen" width="250px" height="400px">
+<img src="https://github.com/ishan18/SudokuSolver/blob/master/screenshots/home.jpeg" alt="Home Screen" width="250px" height="400px" caption="Home Screen">
