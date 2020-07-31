@@ -13,4 +13,4 @@
 ## ScreenShots
 
 ### Home Screen
-![GITHUB LOGO](/screenshots/home.jpeg |width=300 | height=400) 
+<img src="https://github.com/ishan18/SudokuSolver/blob/master/screenshots/home.jpeg" alt="Home Screen" width="250px" height="400px">
