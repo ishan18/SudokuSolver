@@ -1,6 +1,6 @@
-##Sudoku Solver
+# Sudoku Solver
 
-#Features of the app:
+## Features of the app:
 
 - Fast and interactive touch response for wrong answers.
 - Generates new puzzle everytime.
@@ -10,7 +10,7 @@
 - Keeps track of user's history of played games. Allows deletion of any specific history.
 - Allows difficulty selection of Sudoku puzzle among Easy, Medium & Hard.
 
-##ScreenShots
+## ScreenShots
 
-#Home Screen
-![GitHub Logo](/screenshots/home.jpeg)
+### Home Screen
+<img src="screenshots/home.jpeg" width=300" height="500">
