@@ -13,4 +13,4 @@
 ## ScreenShots
 
 ### Home Screen
-<img src="/screenshots/home.jpeg" width=300" height="500">
+![GITHUB LOGO](/screenshots/home.jpeg |width=300 | height=400) 
