@@ -17,12 +17,12 @@
 
 
 ### Game Screen
-<img src="https://github.com/ishan18/SudokuSolver/blob/master/screenshots/game.jpeg" alt="Home Screen" width="250px" height="400px">
+<img src="https://github.com/ishan18/SudokuSolver/blob/master/screenshots/game.jpeg" alt="Game Screen" width="250px" height="400px">
 
 
 ### Sudoku Solver
-<img src="https://github.com/ishan18/SudokuSolver/blob/master/screenshots/solver.jpeg" alt="Home Screen" width="250px" height="400px">
+<img src="https://github.com/ishan18/SudokuSolver/blob/master/screenshots/solver.jpeg" alt="Sudoku Solver" width="250px" height="400px">
 
 
 ### History Screen
-<img src="https://github.com/ishan18/SudokuSolver/blob/master/screenshots/history.jpeg" alt="Home Screen" width="250px" height="400px">
+<img src="https://github.com/ishan18/SudokuSolver/blob/master/screenshots/History.jpeg" alt="History Screen" width="250px" height="400px">
